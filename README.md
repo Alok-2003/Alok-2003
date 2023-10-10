@@ -54,6 +54,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alok-2003&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="alok-2003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alok-2003&theme=dark&hide_border=true&" alt="alok-2003" /></p>
+
 <h1>🏆 GitHub Trophies</h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Alok-2003&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Alok-2003&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
