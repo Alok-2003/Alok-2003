@@ -57,4 +57,4 @@
 
 <h1>🏆 GitHub Trophies</h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Alok-2003&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-trophy.vercel.app/?username=Alok-2003&theme=radical&no-frame=false&no-bg=true&margin-w=4)
