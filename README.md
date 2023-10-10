@@ -1,4 +1,5 @@
-![logo](Banner.png)
+<!-- ![logo](Banner.png) -->
+<img align="right" alt="coding" height="300px" src="Banner.png"> 
 <h1 align="center">Hi 👋, I'm Alok kumar yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="350px" src="coding.gif">
