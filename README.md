@@ -1,7 +1,7 @@
 <!-- ![logo](Banner.png) -->
 <img align="right" alt="coding" height="250px" src="Banner.png"> 
 <h1 align="center">Hi 👋, I'm Alok kumar yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FullStack developer from India</h3>
 <img align="right" alt="coding" width="350px" src="coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alok-2003&label=Profile%20views&color=0e75b6&style=flat" alt="alok-2003" /> </p>
