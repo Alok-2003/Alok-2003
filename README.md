@@ -59,9 +59,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Alok-2003&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TheMystic07&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 <h2>🏆 GitHub Trophies</h2>
 
 ![](https://github-profile-trophy.vercel.app/?username=Alok-2003&theme=radical&no-frame=false&no-bg=true&margin-w=4)
