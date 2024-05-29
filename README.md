@@ -19,8 +19,8 @@
 
 <h2># 📊 GitHub Stats</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=Alok-2003&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
+<img src="https://github-readme-stats.vercel.app/api?username=Alok-2003&show_icons=true&theme=dark&hide_&include_all_commits=true&hide_border=true" height="175px">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alok-2003&theme=dark&hide_border=true&langs_count=10&show_icons=true&locale=en&layout=compact" alt="alok-2003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alok-2003&theme=dark&hide_border=true&" alt="alok-2003" /></p>
