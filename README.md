@@ -28,6 +28,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Alok-2003&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alok-2003&theme=react-dark" />
+</p>
+
 <h2>🏆 GitHub Trophies</h2>
 
 ![](https://github-profile-trophy.vercel.app/?username=Alok-2003&theme=radical&no-frame=false&no-bg=true&margin-w=4)
